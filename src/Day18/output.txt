@@ -1,0 +1,12 @@
+Example 1:
+64
+
+Example 2:
+58
+
+Part 1:
+3530
+
+Part 2:
+2000
+

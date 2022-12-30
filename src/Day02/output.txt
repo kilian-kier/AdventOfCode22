@@ -1,0 +1,12 @@
+Example 1:
+15
+
+Example 2:
+12
+
+Part 1:
+10310
+
+Part 2:
+14859
+

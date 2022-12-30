@@ -1,0 +1,12 @@
+Example 1:
+13
+
+Example 2:
+140
+
+Part 1:
+5185
+
+Part 2:
+23751
+

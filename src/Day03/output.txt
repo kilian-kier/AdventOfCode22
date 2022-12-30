@@ -1,0 +1,12 @@
+Example 1:
+157
+
+Example 2:
+70
+
+Part 1:
+8252
+
+Part 2:
+2828
+

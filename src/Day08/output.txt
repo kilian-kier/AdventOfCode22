@@ -1,0 +1,12 @@
+Example 1:
+21
+
+Example 2:
+8
+
+Part 1:
+1792
+
+Part 2:
+334880
+

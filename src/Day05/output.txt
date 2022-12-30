@@ -1,0 +1,12 @@
+Example 1:
+CMZ
+
+Example 2:
+MCD
+
+Part 1:
+LJSVLTWQM
+
+Part 2:
+BRQWDBBJM
+

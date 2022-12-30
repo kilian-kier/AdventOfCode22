@@ -1,0 +1,12 @@
+Example 1:
+33
+
+Example 2:
+Not possible
+
+Part 1:
+1418
+
+Part 2:
+4114
+
