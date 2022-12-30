@@ -38,3 +38,24 @@ make
 |        |—— Utils.cpp
 |    |—— main.cpp
 ```
+
+## Some stats
+### Fastests execution (on my Laptop)
+* Day 1: <1ms
+* Day 2: <1ms
+* Day 6: <1ms
+* Day 10: <1ms
+
+### Slowest execution (on my Laptop)
+* Day 16: ~110s
+* Day 15: ~30s
+* Day 19: ~25s
+* Day 20: ~3s
+
+### Fastest solving
+* Day 6: solved after 11 minutes
+* Day 1: solved after 15 minutes
+
+### Slowest solving
+* Day 16: >24h
+* Day 20: >24h
